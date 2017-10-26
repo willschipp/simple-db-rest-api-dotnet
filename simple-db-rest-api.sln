@@ -1,0 +1,28 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "simple-db-rest-api", "simple-db-rest-api\simple-db-rest-api.csproj", "{2752908C-BF89-43EC-A0EC-0DB08DAE4791}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "simple-db-rest-api-test", "simple-db-rest-api-test\simple-db-rest-api-test.csproj", "{9E56D9D5-0B13-4414-A936-746F18DF78F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+		Default|Any CPU = Default|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2752908C-BF89-43EC-A0EC-0DB08DAE4791}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2752908C-BF89-43EC-A0EC-0DB08DAE4791}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2752908C-BF89-43EC-A0EC-0DB08DAE4791}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2752908C-BF89-43EC-A0EC-0DB08DAE4791}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2752908C-BF89-43EC-A0EC-0DB08DAE4791}.Default|Any CPU.ActiveCfg = Debug|Any CPU
+		{2752908C-BF89-43EC-A0EC-0DB08DAE4791}.Default|Any CPU.Build.0 = Debug|Any CPU
+		{9E56D9D5-0B13-4414-A936-746F18DF78F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E56D9D5-0B13-4414-A936-746F18DF78F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E56D9D5-0B13-4414-A936-746F18DF78F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E56D9D5-0B13-4414-A936-746F18DF78F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E56D9D5-0B13-4414-A936-746F18DF78F9}.Default|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E56D9D5-0B13-4414-A936-746F18DF78F9}.Default|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+EndGlobal
